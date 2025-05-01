@@ -20,7 +20,6 @@
 
 ## 📷 Screenshots
 
-_Add screenshots here if available._
+ 
 
-## 📂 Project Structure
 
