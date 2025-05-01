@@ -20,6 +20,10 @@
 
 ## 📷 Screenshots
 
- 
+## 📷 Screenshots
+
+<img src="https://github.com/nihal444/DoDeck-App/blob/f1c3504adc5b79791f47f77884c2beb57aabf8a0/s1.jfif" width="45%" /> <img src="https://github.com/nihal444/DoDeck-App/blob/f1c3504adc5b79791f47f77884c2beb57aabf8a0/s2.jfif" width="45%" />
+<img src="https://github.com/nihal444/DoDeck-App/blob/f1c3504adc5b79791f47f77884c2beb57aabf8a0/s3.jfif" width="45%" /> <img src="https://github.com/nihal444/DoDeck-App/blob/f1c3504adc5b79791f47f77884c2beb57aabf8a0/s4.jfif" width="45%" />
+<img src="https://github.com/nihal444/DoDeck-App/blob/f1c3504adc5b79791f47f77884c2beb57aabf8a0/s5.jfif" width="45%" />
 
 
